@@ -53,7 +53,7 @@ To perform a search, fetch CVE information, and print the results to the console
 ### Save Results to JSON File
 To perform a search, optionally fetch CVE information, and save the results to a JSON file:
 ```bash
-./script_name.py <search query> [--fetch-cve] --output <output_file>
+./shodan-search.py <search query> [--fetch-cve] --output <output_file>
 ```
 ### Example Output
 Example output when running the script:
